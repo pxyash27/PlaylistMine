@@ -11,7 +11,14 @@ https://a1xs.vip/700001
 #EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT",HUB SPORTS
 http://ipl.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cd87b1f4b64af718c39015e546b6cef/index.m3u8?token=5f210b068255fd961d9e70b2a5e0613ec36117bd5a135cbb9be2a7ee83a11d00f60df1f7857fccf7167f1f288d3721c9a98940ceb6b877da34bdde15913b1a76f43df913-2d90815bc1c1e205bbe53282c6386cb8
 
-#EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg" group-title="SPORT" ,Fox Cricket 501
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐀𝐔" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=a2ba14ee5ef4440d8e56a8bb5403117d&key=b77a334fd7aff9c9960ca7785a20ea66
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://psplayflix.site/mpd/fox2/ps_manifest.mpd
+
+#https://a1xs.vip/700001
+EXTVLCOPT:http-origin=https://kisskissplay.cfd
+EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
