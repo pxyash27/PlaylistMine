@@ -22,6 +22,9 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=0
 #EXTINF:-1 tvg-id="foxcrickethd.au" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@FOX CRICKET@", FOX CRICKET gdpro
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1972
 
+#EXTINF:-1 tvg-id="foxcrickethd.au" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@FOX CRICKET@", FOX CRICKET JIO
+http://spr1.packetcdn.me:2800/8be1228d28529b5bbbbdbc3c20d661054b64af718c39015e550469fb10b1/index.m3u8?token=6242eb3ee30906e3c8ce3be972663fb993ef930e92a8cf91f876b6a4431c40f47f61b3aaf28c2a53639368738754100ef097ddead297d5900dcf972380562f693659248a-3d0c067efa28941c6468b9d16dcdc079
+
 @STAR SPORT@
 
 #EXTM3U
@@ -46,7 +49,10 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=0
 @ASTRO HUB@
 
 #EXTINF:-1 tvg-id="FoxCricket.au" group-title="@ASTRO HUB@" tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png",ASTRO PSP 50fps
-https://psplayflix.site/mpd/fox/ps_manifest.mpd?|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+https://psplayflix.site/mpd/fox/ps_manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="@ASTRO HUB@", Astro Cricket (SD) 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
