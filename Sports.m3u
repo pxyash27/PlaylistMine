@@ -1,4 +1,4 @@
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg" group-title="SPORT", SS 4K
 http://ipl2.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cc37a1c4668ac6e913f06523f0013/index.m3u8?token=16bc17a88bfcd71162bbee500aaf21e6c4d1bf4e3c7bf40927a90e94c01bb2042ee52b724ee1578fca1f9db871a898f3cb90a05dc301934e62e0743c753ea54732256200-cf1821e2943af7f5bcd57e2532c77697
 
@@ -10,6 +10,8 @@ https://a1xs.vip/700001
 
 #EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT",HUB SPORTS
 http://ipl.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cd87b1f4b64af718c39015e546b6cef/index.m3u8?token=5f210b068255fd961d9e70b2a5e0613ec36117bd5a135cbb9be2a7ee83a11d00f60df1f7857fccf7167f1f288d3721c9a98940ceb6b877da34bdde15913b1a76f43df913-2d90815bc1c1e205bbe53282c6386cb8
+
+■■𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒■■
 
 #EXTINF:-1 tvg-id="FoxCricket.au" group-title="𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐀𝐔" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
