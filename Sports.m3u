@@ -1,7 +1,7 @@
 
-■■𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒■■
+@FOX CRICKET@
 
-#EXTINF:-1 tvg-id="FoxCricket.au" group-title="𝐅𝐎𝐗 𝐒𝐏𝐎𝐑𝐓𝐒 𝐀𝐔" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@FOX CRICKET@" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=a2ba14ee5ef4440d8e56a8bb5403117d&key=b77a334fd7aff9c9960ca7785a20ea66
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -13,62 +13,76 @@ EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 #https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
 
-SPORT
+#EXTINF:-1  tvg-id="FoxCricket.au" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Cricket.png" group-title="@FOX CRICKET@", FOX A1XS
+https://a1xs.vip/700001
+
+#EXTINF:-1  tvg-id="FoxCricket.au" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Cricket.png" group-title="@FOX CRICKET@", FOX ALT 1
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2756
+
+@STAR SPORT@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg" group-title="SPORT", SS 4K
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg" group-title="@STAR SPORT@", SS 4K
 http://ipl2.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cc37a1c4668ac6e913f06523f0013/index.m3u8?token=16bc17a88bfcd71162bbee500aaf21e6c4d1bf4e3c7bf40927a90e94c01bb2042ee52b724ee1578fca1f9db871a898f3cb90a05dc301934e62e0743c753ea54732256200-cf1821e2943af7f5bcd57e2532c77697
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/86/f4/d6/86f4d647b439f5f07e04f6ec15790cd7.jpg" group-title="SPORT", SS 4K
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/86/f4/d6/86f4d647b439f5f07e04f6ec15790cd7.jpg" group-title="@STAR SPORT@", SS 4K 1
 http://ipl2.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cd97e114b75b66c9a321758256b0eed14b3/index.m3u8?token=b6f3e59f11d704ccda96bcd904c7c31ca6c4ed409f66abe21a86df834b1536a2ce398e4cf768082c8ca8aa62cead93d4741884d52a59965d72af29ba94b986e5d8e46407-bdd9081d37a57220e3daafdb0b0f6af0
 
-#EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Cricket.png" group-title="SPORT", FOX
-https://a1xs.vip/700001
+#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@STAR SPORT@", SS1 atntv
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=938
+
+#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@STAR SPORT@", SS Hindi atntv
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2894
+
+#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@STAR SPORT@", SS1 ALT atntv
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1976
+
+#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@STAR SPORT@", SS Hindi Alt atntv
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2895
 
 #EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT",HUB SPORTS
 http://ipl.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cd87b1f4b64af718c39015e546b6cef/index.m3u8?token=5f210b068255fd961d9e70b2a5e0613ec36117bd5a135cbb9be2a7ee83a11d00f60df1f7857fccf7167f1f288d3721c9a98940ceb6b877da34bdde15913b1a76f43df913-2d90815bc1c1e205bbe53282c6386cb8
 
-#EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Cricket.png" group-title="SPORT", FOX ALT 1
-https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2756
-
 #EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT",ASTRO CRICKET 720
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2755
 
-#EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Cricket.png" group-title="SPORT", FOX ALT 1
-https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2756
 
-#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT",ASTRO CRICKET 720
-https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2755
+@SONY NETWORK atntv@ 
 
-#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT", SS1
-https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=938
-
-
-#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT", SS Hindi
-https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2894
-
-#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT", SS1 ALT
-https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1976
-
-#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT", SS Hindi Alt
-https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2895
-
-@SONY NETWORK@
-
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 1 HD
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK atntv@", SONY TEN 1 HD
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1284
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 2 HD
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK atntv@", SONY TEN 2 HD
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=943
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 3 HD
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK atntv@", SONY TEN 3 HD
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1285
-#EXTINF:-1 tvg-id="No details available" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 5 HD
+#EXTINF:-1 tvg-id="No details available" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK atntv@", SONY TEN 5 HD
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1286
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 1 HD ALT 1
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK atntv@", SONY TEN 1 HD ALT 1
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1986
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 2 ALT 1
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK atntv@", SONY TEN 2 ALT 1
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1988
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 3 ALT 1
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK atntv@", SONY TEN 3 ALT 1
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1989
-#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 5 ALT 1
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK atntv@", SONY TEN 5 ALT 1
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1990
+
+@SONY cdnpro@
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 1 
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=294
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 2 
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=297
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 3 
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=298
+#EXTINF:-1 tvg-id="sonyten4hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 4 
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=299
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 5 
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=4674
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 1 ALT
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1101
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 2 ALT
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1103
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 3 ALT
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1104
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 5 ALT
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1105
