@@ -72,6 +72,12 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=0
 #EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@ASTRO HUB@", ASTRO CRICKET 
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1973
 
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@ASTRO HUB@", ASTRO CRICKET 50alt1
+http://spr1.packetcdn.me:2800/8be1228d28529b5fbbb8bc3a2cc27a025b65b8619f3e06532f6b1bf618a7b5a466/index.m3u8?token=9c9b7b73dc08a4c60c3a72400d35588fb84ef5456dda8208a8eac8a1bb4224c3f57fd7190b64bd808cab9c05456b9aa3c7bad8c8245eccd6ba76cb204d5a4004d2a03b4e-0d13afb626cbe36aa7a9d173112591da
+
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@ASTRO HUB@", ASTRO CRICKET50alt2
+http://spr1.packetcdn.me:2800/8be1228d28529b5fbbb8bc3a2cc27a025b65b8619f3e06532f6b1bf618a7b5a466/index.m3u8?token=c3a43abbcb1e1c32e7842a77a7224cd464f76eebc827943ddcf5b34c8818256ddb2d6cc2831a7ac24e9ff51149d09bc61093f6c45a8736c16dba866b2fe2066635f04f0a-b3cd0decf484ca60d63593fe94a05557
+
 @SONY NETWORK atntv@ 
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK atntv@", SONY TEN 1 HD
