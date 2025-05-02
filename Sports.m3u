@@ -120,3 +120,27 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1104
 #EXTINF:-1 tvg-id="sonyten5hd.in" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@SONY cdnpro@", SONY TEN 5 ALT
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1105
+
+@24x7 SHOWS@
+#EXTINF:-1  group-title="@24x7 SHOWS@", FRIENDS
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1430328&extension=ts&play_token=vn4CtAY4Km
+
+#EXTINF:-1  group-title="@24x7 SHOWS@", HIMYM
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1430292&extension=ts&play_token=qjmqwYSh3O
+
+#EXTINF:-1  group-title="@24x7 SHOWS@", BRBA
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1430402&extension=ts&play_token=38ptSl3QM9
+
+#EXTINF:-1  group-title="@24x7 SHOWS@", HARRY POTTER
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=558792&extension=ts&play_token=R0qyDnEB22
+
+#EXTINF:-1  group-title="@24x7 SHOWS@", BACK TO THE FUTURE
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=558799&extension=ts&play_token=NgjaVazRK3
+
+
+@UHDs@
+
+#EXTINF:-1  group-title="@UHDs@", F1 UHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1471382&extension=ts&play_token=6UvFYPbkvC
+#EXTINF:-1  group-title="@UHDs@", SKY SP MAIN EVENT UHD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1608071&extension=ts&play_token=ZK9HSwMuXt
