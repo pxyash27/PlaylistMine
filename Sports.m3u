@@ -19,6 +19,9 @@ https://a1xs.vip/700001
 #EXTINF:-1  tvg-id="FoxCricket.au" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Cricket.png" group-title="@FOX CRICKET@", FOX ALT 1
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2756
 
+#EXTINF:-1 tvg-id="foxcrickethd.au" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@FOX CRICKET@", FOX CRICKET gdpro
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1972
+
 @STAR SPORT@
 
 #EXTM3U
@@ -40,12 +43,28 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=0
 #EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@STAR SPORT@", SS Hindi Alt atntv
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2895
 
-#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT",HUB SPORTS
+@ASTRO HUB@
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="@ASTRO HUB@", Astro Cricket (SD) 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+https://astrohighqual.vercel.app/2504/default_ott.mpd
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="@ASTRO HUB@", Astro Cricket (HD) 50fps
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+https://astrohighqual.vercel.app/2504/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@ASTRO HUB@",HUB SPORTS
 http://ipl.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cd87b1f4b64af718c39015e546b6cef/index.m3u8?token=5f210b068255fd961d9e70b2a5e0613ec36117bd5a135cbb9be2a7ee83a11d00f60df1f7857fccf7167f1f288d3721c9a98940ceb6b877da34bdde15913b1a76f43df913-2d90815bc1c1e205bbe53282c6386cb8
 
-#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT",ASTRO CRICKET 720
+#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@ASTRO HUB@",ASTRO CRICKET 720
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2755
 
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@ASTRO HUB@", ASTRO CRICKET 
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1973
 
 @SONY NETWORK atntv@ 
 
