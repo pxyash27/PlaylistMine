@@ -52,3 +52,23 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=0
 
 #EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="SPORT", SS Hindi Alt
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2895
+
+@SONY NETWORK@
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 1 HD
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1284
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 2 HD
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=943
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 3 HD
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1285
+#EXTINF:-1 tvg-id="No details available" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 5 HD
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1286
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 1 HD ALT 1
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1986
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 2 ALT 1
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1988
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 3 ALT 1
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1989
+#EXTINF:-1 tvg-id="sonyten5hd.in" tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@SONY NETWORK@", SONY TEN 5 ALT 1
+https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=1990
