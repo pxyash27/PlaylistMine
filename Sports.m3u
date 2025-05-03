@@ -29,10 +29,7 @@ http://spr1.packetcdn.me:2800/8be1228d28529b5bbbbdbc3c20d661054b64af718c39015e55
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg" group-title="@STAR SPORT@", SS 4K
-http://ipl2.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cc37a1c4668ac6e913f06523f0013/index.m3u8?token=16bc17a88bfcd71162bbee500aaf21e6c4d1bf4e3c7bf40927a90e94c01bb2042ee52b724ee1578fca1f9db871a898f3cb90a05dc301934e62e0743c753ea54732256200-cf1821e2943af7f5bcd57e2532c77697
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/86/f4/d6/86f4d647b439f5f07e04f6ec15790cd7.jpg" group-title="@STAR SPORT@", SS 4K 1
-http://ipl2.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cd97e114b75b66c9a321758256b0eed14b3/index.m3u8?token=b6f3e59f11d704ccda96bcd904c7c31ca6c4ed409f66abe21a86df834b1536a2ce398e4cf768082c8ca8aa62cead93d4741884d52a59965d72af29ba94b986e5d8e46407-bdd9081d37a57220e3daafdb0b0f6af0
+http://ipl2.packetcdn.me:8978/8be1228d28529851b8babd382ec37a1c4668ac6e913f06523f0013/index.m3u8?token=38d50e2160361bc490268cf7ad21bb8b94c7df6c8b716a130c391fd0f8d10a0f9382b4807ee5775ed01b592369b6fba5b86c7e1b49fabc483041b48029d459b3581c88d0-ceb888283c69c3e9a3fc5e5b340d407f
 
 #EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@STAR SPORT@", SS1 atntv
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=938
