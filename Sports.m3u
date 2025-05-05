@@ -55,7 +55,7 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=0
 
 @ASTRO HUB@
 
-#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@ASTRO HUB@" tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png",ASTRO PSP 50fps
+#EXTINF:-1  group-title="@ASTRO HUB@" tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png",ASTRO PSP 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
@@ -73,9 +73,6 @@ https://astrohighqual.vercel.app/2504/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 https://astrohighqual.vercel.app/2504/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@ASTRO HUB@",HUB SPORTS
-http://ipl.packetcdn.me:8978/8be1228d28529b5fbbb8bc3a2cd87b1f4b64af718c39015e546b6cef/index.m3u8?token=6f210b068255fd961d9e70b2a5e0613ec36127bd5a135cbb9be2a7ee83b11d00f60df1f7857fccf7167f1f288d3721c9a98940ceb6b877da34bdde15913b1a76f43df913-2d90815bc1c1e205bbe53282c6386cb8
-
 #EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@ASTRO HUB@",ASTRO CRICKET 720
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2755
 
@@ -83,10 +80,8 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=0
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=00:1A:79:00:03:23 &deviseid=18F2534A079B4050A087B018E7A496D93766236B9B178B81CB9BAB60E107F448&id=1973
 
 #EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@ASTRO HUB@", ASTRO CRICKET 50alt1
-http://spr1.packetcdn.me:2800/8be1228d28529b5fbbb8bc3a2cc27a025b65b8619f3e06532f6b1bf618a7b5a466/index.m3u8?token=9c9b7b73dc08a4c60c3a72400d35588fb84ef5456dda8208a8eac8a1bb4224c3f57fd7190b64bd808cab9c05456b9aa3c7bad8c8245eccd6ba76cb204d5a4004d2a03b4e-0d13afb626cbe36aa7a9d173112591da
+http://rkmofficials.fun/opplex.m3u8?id=381414
 
-#EXTINF:-1 tvg-id="astrocricket.my" tvg-logo="http://new.gprod.co/misc/logos/320/" group-title="@ASTRO HUB@", ASTRO CRICKET50alt2
-http://spr1.packetcdn.me:2800/8be1228d28529b5fbbb8bc3a2cc27a025b65b8619f3e06532f6b1bf618a7b5a466/index.m3u8?token=c3a43abbcb1e1c32e7842a77a7224cd464f76eebc827943ddcf5b34c8818256ddb2d6cc2831a7ac24e9ff51149d09bc61093f6c45a8736c16dba866b2fe2066635f04f0a-b3cd0decf484ca60d63593fe94a05557
 
 @SONY NETWORK atntv@ 
 
