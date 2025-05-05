@@ -7,7 +7,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://pstvplaylive.online/mpd/fox2/ps_manifest.mpd
 
-
 #https://a1xs.vip/700001
 EXTVLCOPT:http-origin=https://kisskissplay.cfd
 EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
@@ -66,9 +65,6 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 https://pstvplaylive.online/mpd/fox/ps_manifest.mpd
-
-
-
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="@ASTRO HUB@", Astro Cricket (SD) 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
