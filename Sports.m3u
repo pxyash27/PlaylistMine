@@ -22,10 +22,12 @@ http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:5E:07:59&stream=281631&extensi
 https://pstvplaylive.online/mpd/fox2/ps_manifest.mpd
 
 #https://a1xs.vip/700001
+
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@FOX CRICKET@" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501 daddy
 EXTVLCOPT:http-origin=https://kisskissplay.cfd
 EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
+https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8
 
 #EXTINF:-1  tvg-id="FoxCricket.au" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Cricket.png" group-title="@FOX CRICKET@", FOX A1XS
 https://a1xs.vip/700001
@@ -74,11 +76,6 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=0
 
 @ASTRO HUB@
 
-#EXTINF:-1  group-title="@ASTRO HUB@" tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png",ASTRO PSP 50fps 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-https://pstvplaylive.online/mpd/fox/ps_manifest.mpd
 
 #EXTINF:-1  group-title="@ASTRO HUB@" tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png",ASTRO PSP 50fps1
 https://pstvplaylive.online/mpd/fox/ps_manifest.mpd?|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
@@ -87,13 +84,13 @@ https://pstvplaylive.online/mpd/fox/ps_manifest.mpd?|drmScheme=clearkey&drmLicen
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-https://astrohighqual.vercel.app/2504/default_ott.mpd
+https://proxyastro.vercel.app/2504/default_ott.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="@ASTRO HUB@", Astro Cricket (HD) 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-https://astrohighqual.vercel.app/2504/default_primary.mpd
+https://proxyastro.vercel.app/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://n1.atntv.cc/misc/logos/320/" group-title="@ASTRO HUB@",ASTRO CRICKET 720
 https://sk.shahnawazkhan6388394.workers.dev/?portalname=n1.atntv.cc&portal_mac=00:1A:79:00:31:23&deviseid=83597522185FB81D08A46E9E11D3BCEFEC798B32A45586D26ECBC24AD980650A&id=2755
