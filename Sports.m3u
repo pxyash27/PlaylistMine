@@ -12,6 +12,25 @@ http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:5E:07:59&stream=281630&extensi
 #EXTINF:-1 group-title="@works@", SS HIN
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:5E:07:59&stream=281631&extension=ts
 
+@WTC FINAL@
+
+#EXTINF:-1 group-title="@WTC FINAL@", HINDI
+http://live-ssai-jiol-mum.cdn.hotstar.com/hls/live/2024729/inallow-iccwtc-2025/hin/1540044515/15mindvrm01ffcdf81e90aa45bf8129739ba1e73b1911june2025/master_apm.m3u8?|cookie=hdntl=exp=1749658396~acl=/hls/live/2024729/inallow-iccwtc-2025/hin/1540044515/15mindvrm01ffcdf81e90aa45bf8129739ba1e73b1911june2025/master_apm~ttl=28800~type=free~data=ip=XQbv8JtCQOeax9BBf2tquYRrRXd1X0YtASJsTWRVu9aH-userid=SUwSnZcRAS3KncQvX1F8QqpNtvzrhbCz0MH7epC1f0Ni-did=U9OHsEWSa21zL8pWKB2IcdnIsN0e6mKvndXsJMuzod67-cc=in-de=1-pl=android-ap=25.01.27.1.2915-ut=guest-~hmac=e2ad999709dc49ef6ecdcfc3c6f73a889d00eb1257c158fb6f3688258a60a75c
+
+#EXTINF:-1 group-title="@WTC FINAL@", PRIME
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uugw0qkwob/out/v1/acfdcf2dabd24075bb615c6c19ba9bd4/cenc.mpd?|drmScheme=clearkey&drmLicense=ec2147a4b9b1b87ee3d8dc6915bc7928:c84fcd82767a9cd9e2e0c0d1b47a72c5
+
+#EXTINF:-1 group-title="@WTC FINAL@", HINDI alt
+https://sshindidash-i.akamaihd.net/dash/live/2002466-b/sshindiwv/master.mpd?|Cookie=hdntl=exp=1749719876~acl=*sshindi*~id=494ede716819e04b4387450c5dbcf642~data=hdntl~hmac=8536fb42d37a8a6334830767bb78936ba612798f89062696b82cb6b72c6c6957&User-agent=@Denver1769&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+
+#EXTINF:-1 group-title="@WTC FINAL@", ICC TV
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1749660417~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=9db11c5e170126f4b3b3e9d12dc01e633b1de0c869dd6a0a1e161798736caabf/manifest.mpd?|drmScheme=clearkey&drmLicense=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+
+#EXTINF:-1 group-title="@WTC FINAL@", PRIME alt
+https://dj-tm-srvr1.vercel.app/title/PRIME_VIDEO-LIVE@DJ-TM.mpd?data=BcFLEoIgAADQA7ECzHBZ6BhJpDhjyU7FmCbND1h0-957ztF6Aceh2Rh6man0EGo15na33M9veOoOt-Hj49yOfmnID1Ne8UWUay1UqNmXiGCiUU8DzOutH13oaCcnj0nFYJGxVJJUPZAjwO4B6lo9O88TYUSAOAZJ5omMM1E41cqrmcs_|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TOqTMt1tHRxN0h2KcvNCnA3SPdwNEgMijRO9gmIcI60cMzLzXUyL3GPijR2zPQIDHBKjUp1MqoIDLPIigIA
+
+#EXTINF:-1 group-title="@WTC FINAL@", ICC TV alt
+https://dj-tm-srvr2.vercel.app/icctv/ICC_WTC-FINAL_2025@DJ-TM.mpd?id=ch-hd-02|User-Agent=@DJ-TM&Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Ur8QtLjQowNDIIjDA0sHRMLQs0TEoLMAgstjSudClIiYq0NHRNTDP2TDSIKkq0zK2IijT2D43ITDFwNDA2cAMA
 
 @FOX CRICKET@
 
