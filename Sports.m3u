@@ -1,14 +1,13 @@
 @works@
 
-#EXTINF:-1 group-title="@works@", SKY SPORTS C1080 50
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:5E:07:59&stream=741858&extension=ts
+#EXTINF:-1 group-title="@works@", Sony 50
+https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 
-#EXTINF:-1 group-title="@works@", SKY NZ 50
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:5E:07:59&stream=689432&extension=ts
+#EXTINF:-1 group-title="@works@", fox 
+http://203.76.254.126/live/310533129D4368C/09D46A497281017/113657.m3u8?token=SEReU0dfFg8WUVUHBQUDAQdUA1AADQBaBlVUAQgAXFJRUQELUQQGAFUWGxRGRUZWVl9tXVAWWAgCUQEGBh9HQUADRG1dUxYPFgUGAwQIAwEDEB4WQF0PXBFYBx8TQwxQEVwUBgUDAgQWGBVTTUVRQVlTXmtQURRQUAcVCV9GCVgfRFlca1NRWFVaUxQPEwQRGxBbR0QWWFdGDlsfE1EMQEEHQlcWDRYCBAEOFBkTV1xCXEZGTRZYG3osFR8TVh1AVghFW1tZFg8WWQRDDRMYEV5BbUZRRxZLVgNaVkMRXxYDRBoQWVZMaldbWVhQUkBaWFxBFg4WUxsfQFpcX1oRW0E5RltQFQ4XBg0PBBcdFkZEV0BrXURAAxFTAgQfAF0aAlUDHAYEDRdJ
 
-#EXTINF:-1 group-title="@works@", SS ENG
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:5E:07:59&stream=281630&extension=ts
-
+#EXTINF:-1 group-title="@works@", icc
+https://live-d-02-icc-ne.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1750441177~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=90c07fa67fc42dcc1c8e64e3278928903798cb554944b3369d73254afcf0aae1/manifest.mpd?|User-Agent=Denver1769&drmScheme=clearkey&drmLicense=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 #EXTINF:-1 group-title="@works@", SS HIN
 http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:5E:07:59&stream=281631&extension=ts
 
