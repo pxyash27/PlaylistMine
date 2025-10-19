@@ -1,10 +1,13 @@
 @works@
 
-#EXTINF:-1 group-title="@works@", Sony 50 new1
-https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8
+#EXTINF:-1 group-title="@works@", Sky sp2
+https://dj-tm-srvr1.vercel.app/title/SKY_SPORT_2-NZ(720p50)@DJ-TM.m3u8?data=BcHJEkMwAADQD8qB0Ck99EClk4llxJKImxprLSnG4Ov73tOkgBjbACHXyq6dLGtsM1_IRL6wVVHzSjoBHk01vIxRlpEYQXnMyo-vrcMM59zOlKVfnwWiIGfmoQqrhiiwJqc1pltiN2EPCEuP3tmRebeX8OJE7EjFcwzcnaGFl5ESFDp0Z8-C75pcmB15Dm88zoY60uOABtGWfyjvJf0D|Telegram=@links_macha_official&Creator=@DJ-TM
 
-#EXTINF:-1 group-title="@works@", Sony 50 new2
-https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8
+#EXTINF:-1 group-title="@works@", fox501
+https://dj-tm-srvr1.vercel.app/title/FOX_501-HD(1080p50)@DJ-TM.m3u8?data=BcHdDoIgFADgB-JCy_V320JWyzOQcM27YGPamqch6KGn7_vm8l2RXhrGr3EgsQuO9yPPXcFmf-GwxbTBR3daP0DnY72KVBnKr9oESczfsCA1STRaHpphDE_n75PVVri0XyKLvS1_mbWgoI1gJbqv-gM|Telegram=@links_macha_official&Creator=@DJ-TM
+
+#EXTINF:-1 group-title="@works@", tnt
+https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_1-HD(50FPS)@DJ-TM.mpd?data=s7XN8jd2t0wydjTxTc3KNnCJdDIvLquoyg6ziKgsqSgzswwwqnKyMLFMKwiJys32zMq2MC_yD7b0ygzwyisLdjN2cfbNTswK9nP3C8jySwr0Dy7wBwA|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=widevine&drmLicense=https://mc-zlcfs7ps9x.bunny.run/license?id=tntsports1
 
 
 #EXTINF:-1 group-title="@works@", Sony 50
