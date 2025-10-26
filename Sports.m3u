@@ -1,5 +1,11 @@
 @works@
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=f1a5816f871e4817b41241b6017faadf&key=0ab300bf80017380c00af6c750487be2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/2YRHMJF/australia-vs-india-3d-illustration-vector-flags-in-shaded-rounded-rectangle-with-flash-versus-match-2YRHMJF.jpg" group-title="BHARAT vs AUS", Fox 501 4K
+https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d944f2b1e5b7dfa405353a/index.mpd
+
 #EXTINF:-1 group-title="@works@", Sky sp2
 https://dj-tm-srvr1.vercel.app/title/SKY_SPORT_2-NZ(720p50)@DJ-TM.m3u8?data=BcHJEkMwAADQD8qB0Ck99EClk4llxJKImxprLSnG4Ov73tOkgBjbACHXyq6dLGtsM1_IRL6wVVHzSjoBHk01vIxRlpEYQXnMyo-vrcMM59zOlKVfnwWiIGfmoQqrhiiwJqc1pltiN2EPCEuP3tmRebeX8OJE7EjFcwzcnaGFl5ESFDp0Z8-C75pcmB15Dm88zoY60uOABtGWfyjvJf0D|Telegram=@links_macha_official&Creator=@DJ-TM
 
