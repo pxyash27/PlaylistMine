@@ -1,3 +1,15 @@
+@cdn8k@
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@cdn8k@" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:7E:1A:B2&stream=441307&extension=ts&play_token=
+
+#EXTINF:-1  tvg-logo="https://sk-cricketlive.pages.dev/logo/skycri.png" group-title="@cdn8k@", SKY SP CRICKET HD RAW
+http://tin51967.cdngold.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527625&extension=ts&play_token=
+
+
+
+
+
+
 @works@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/2YRHMJF/australia-vs-india-3d-illustration-vector-flags-in-shaded-rounded-rectangle-with-flash-versus-match-2YRHMJF.jpg" group-title="BHARAT vs AUS full", Fox 501 4K full
 https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d944f2b1e5b7dfa405353a/index.mpd?|drmScheme=clearkey&drmLicense=f1a5816f871e4817b41241b6017faadf:0ab300bf80017380c00af6c750487be2,94bf80604e884243a689fd8c546b7c32:38ba8fb5656ca2076778092615ab5f82
@@ -180,29 +192,29 @@ https://sk.shahnawazkhan6388394.workers.dev/?portalname=new.gprod.co&portal_mac=
 
 @24x7 SHOWS@
 #EXTINF:-1  group-title="@24x7 SHOWS@", FRIENDS
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1430328&extension=ts&play_token=vn4CtAY4Km
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1430328&extension=ts&play_token=
 
 #EXTINF:-1  group-title="@24x7 SHOWS@", HIMYM
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1430292&extension=ts&play_token=qjmqwYSh3O
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1430292&extension=ts&play_token=
 
 #EXTINF:-1  group-title="@24x7 SHOWS@", BRBA
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1430402&extension=ts&play_token=38ptSl3QM9
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1430402&extension=ts&play_token=
 
 #EXTINF:-1  group-title="@24x7 SHOWS@", HARRY POTTER
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=558792&extension=ts&play_token=R0qyDnEB22
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=558792&extension=ts&play_token=
 
 #EXTINF:-1  group-title="@24x7 SHOWS@", BACK TO THE FUTURE
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=558799&extension=ts&play_token=NgjaVazRK3
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=558799&extension=ts&play_token=
 
 
 @UHDs@ SKY SP
 
 #EXTINF:-1  tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta9409abe5001a140/6400bce3ec12cd34d006003f/Sky_Sports_F1_UHD_PRIMARY_RGB.png?imageManager=true&impolicy=resize&height=360" group-title="@UHDs@ SKY SP", SKY SP F1 UHD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1471382&extension=ts&play_token=6UvFYPbkvC
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1471382&extension=ts&play_token=
 #EXTINF:-1  tvg-logo="https://ia600608.us.archive.org/4/items/sky-sports-main-event-uhd//Sky_Sports_Main_Event_UHD.png" group-title="@UHDs@ SKY SP", SKY SP MAIN EVENT UHD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1608071&extension=ts&play_token=ZK9HSwMuXt
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1608071&extension=ts&play_token=
 #EXTINF:-1  tvg-logo="https://sk-cricketlive.pages.dev/logo/skycri.png" group-title="@UHDs@ SKY SP", SKY SP CRICKET HD
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:7B:AC:38&stream=1520176&extension=ts&play_token=sPtyildFI0
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:7B:AC:38&stream=1520176&extension=ts&play_token=
 
 #EXTM3U
 
