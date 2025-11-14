@@ -5,7 +5,8 @@ http://tin51967.cdngold.me:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=441307&
 #EXTINF:-1  tvg-logo="https://sk-cricketlive.pages.dev/logo/skycri.png" group-title="@cdn8k@", SKY SP CRICKET HD RAW
 http://tin51967.cdngold.me:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1527625&extension=ts&play_token=
 
-
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@cdn8k@" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 505
+https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-121/3ck5-macv/chunklist.m3u8
 
 
 
