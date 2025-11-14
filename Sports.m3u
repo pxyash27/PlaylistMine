@@ -304,74 +304,10 @@ https://dj-tm-srvr1.vercel.app/title/FOX_505-HD(50FPS)@DJ-TM.m3u8?data=8_PzS3OKz
 #KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
 https://dj-tm-srvr1.vercel.app/title/FOX_505-HD(1080p50)@DJ-TM.m3u8?data=szUxNjAoNHIp9A4wKfcv13Yzigh2Dih11bcsDvErdozy9Hf3Tq-wLMoP9A-NKEx298oOrahw0jfyLrEMdQnKL04utfDPTkkP17eILDYoLvY1ywtJdzUuTHKsMHbJiazMyg0zDy8J9AvK8qsIKE0tCAQA
 
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP1HD JTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jNIDXLPCQuMSvNyds8OzrR0zvZxzykItMw1LrBMCUotjEg2KXcyqrBIT8mKjLQMKMj21g90CiwPNMgySwEA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD(JTV)@DJ-TM.mpd?data=BcFLCoQwDADQA7loOhWhS0cwg4K_hSbd-qkVAxaE8fi-1273s1Rh4_0euA4gbobTTTaaqP7maPopAWT9lB-blnmAWCuHaAi_hV1o7jSr5icDrWPOLOdKkgl54HB5kAyw0EAv
+#EXTINF:-1 group-title="@DJMAACHA@", SS1-HD JTV
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD(JTV)@DJ-TM.mpd?data=BcFLCoQwDADQA7loOhWhS0cwg4K_hSbd-qkVAxaE8fi-1273s1Rh4_0euA4gbobTTTaaqP7maPopAWT9lB-blnmAWCuHaAi_hV1o7jSr5icDrWPOLOdKkgl54HB5kAyw0EAv|drmScheme=clearkey|drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jNIDXLPCQuMSvNyds8OzrR0zvZxzykItMw1LrBMCUotjEg2KXcyqrBIT8mKjLQMKMj21g90CiwPNMgySwEA|Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9|Telegram=@links_macha_official|Creator=@DJ-TM
 
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP1SD JTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jMITQx0rEjLjQzWD8xNjQrMcXMvdCwxSMk0MHCMCEmNMCpILMwpTLTMrHCJiHAPLTROzSpzLgwNCDexiAIA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-SD(JTV)@DJ-TM.mpd?data=BcFBCoMwEAXQA3WRmUYsWbhILZmCIKWLMD9blSA6UCkUj9_3-v4xIc0L4_ZD2naGz6IlS_y6w9U26IUEfMarb2OodIxNFnEq98EvOr8YzfS0t64pALavap1pJayfStaS9Ez6Bw
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP1-HINDI HD JTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jPSjyoLy7AoNHAtT3U28HHPccl0S7GIynXOibKMCEmNMArytoyMMo7INrcICK9Is8zR93PLMU_JiQzSLwAA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1_HINDI-HD(JTV)@DJ-TM.mpd?data=s_COMCjKyS_wTy4L9E_Py88rqHQM108u9E93MgqxNIgMKU0yMA439TENMDUJLXAN8_GMtDTydi_X9nNLi8g0KzSKcLasdPdwy8l3CytJtgzxyfHPK3F2MQxJtAxyCfQLLPFLCjQvKAgEAA
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP1-HINDI SD JTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8cuIKg5wNPcrMCg3yzGIdM5J8tGPNDYIc4uoiirMCTYvcPZJdDTOT4wMtywLyK2Mish1Di00DsuMStY2iAAA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1_HINDI-SD(JTV)@DJ-TM.mpd?data=s7XNck52Mw7PzPb3jHCMqEjJTHfNzAhPdyz2SypNLPezTMkNCjct9HIK0XaJMir3CIwwzE1MjEgtD9cOKEgySze3NIp08qz0cQ72jYr08TMocHcyK3F2MQxJtAxyCfQLLPFLCjQvKAgEAA
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP2HD JTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jPM17fMLY2KiDR2C3R0TCyIKstJySlJigxLd4nMCcqPdDLwc0uqKigwCMp0y84Oys0K1C_PMk5xz8jKSgEA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_2-HD(JTV)@DJ-TM.mpd?data=BcFJCoAwDADAB3loakXoUQUjCm4HTXp1LRiwIOLznen251trv_P5jNx4ELfA5WYbTFCvSdphjgBZf2VskzLzEBrlEA1hXtiVll6zaisZaZsyZrk2klToAPb3AZICFhroBw
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP2SD JTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8UuqSAk0Ks0qcwwztoi0NIiMLDLODc-JSjH0806JCM2P9Ci3iDIoCUrJNHFzz04tCTAyzorIdXfPibLMKgMA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_2-SD(JTV)@DJ-TM.mpd?data=BcFBCoMwEAXQA3XhTCOWLFyklkxBkNJFmJ-tSgg6UCkUj9_3-v4xIc0L4_ZD2naGz6IlS_y6w9U26IUEfMarb2OodIxNFnEq98EvOr8YzfS0t64pALavap1pJayfStaS9Ez6Bw
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP2 HINDI HD JTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Ur8QtL9AswNCkodPS1zDH2CIxKcUl0iwzJzUnyibTMcUq1cHYOzAlL8ivM8s8MzPErjzT2DgxISTJIMXQxzgEA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_2_HINDI-HD(JTV)@DJ-TM.mpd?data=BcFBCoMwEAXQI2VCxJKFi1RxCoK0XYT5s40SpA5UC6XH73tdN8zIZfG4fJFfu0dUlqo8fsIRXPNQalI-oRppTOV3TE6Zg_C1j4uUu4ebb_aUNSfA9lWsNamE7V3JWuLek_wB
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP2 HINDI SD JTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jMo97M0KnKOzE4zsDC0LMhJjyq2zCpPS41Kz3PMCc0vyHVJzA2vMIjMDXJ2z3FMLDTITQrIyU4rMAyzdAMA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_2_HINDI-SD(JTV)@DJ-TM.mpd?data=BcFBCoMwEAXQI2VCRMnCRao4hYJIF2H-bKME0YHaQunx-17fjzNyWT26L_JxekRlqcrTJ1zBNQvFJuU3VCNNqfyuh1PmIHwb4ipl8XDz3Z6y5QTYuYm1JpWwvypZSzx4kj8
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP2 HINDI HD JSTAR
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1763166610~acl=%2f*~id=6a13c423724b930f53829869cfb3534f~data=hdntl~hmac=83da1e29d8a30351eac4ee2333f75c80f440d8ba9c57807ff56da3805f317931&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_2_HINDI-SD(JHSTAR)@DJ-TM.m3u8?data=s7XNCixPzS_OSQ_20PZPrSrIDXF2cw1LLQzOdk0qC3eydA3yyfN0D3JOCSyJyPfTrzAuDS0wSw1zSfbOSE4r9E0JyAxwT3UPL7R0ck_y8Uk2qMr0MAzzK_B2Nwjycc0r8wv0Cyzx8wn0Dy3wBwA
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/421/620/png-clipart-television-channel-star-sports-logo-live-television-sport-logo-television-text.png" group-title="@DJMAACHA@", SSP3 SD JTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8Ut3cY_Myg0LdM4qKHPMdguMMo0KMMg0cI8qCXLMCUotiHI3znHKDUpNzypLD09Ly8kud0lzKnVLTfEwjgIA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_3-SD(JTV)@DJ-TM.mpd?data=BcFBCoMwEAXQA3WRmUYsWbhILZmCIKWLMD9blSA6UCkUj9_3uu4xIk8z4_ZD3nZGKKK1SPr6w7sm6oUEfKZraFJc6RhcEfEq9z7MOr0YbnzaW5ccAdsXtda0EtZPJWtJeib9Aw
 
 #EXTINF:-1 group-title="@DJMAACHA@", WILLOW TV
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=@DJ-TM&Telegram=@links_macha_official&Creator=@DJ-TM
@@ -388,12 +324,6 @@ https://dj-tm-srvr1.vercel.app/title/WILLOW-LIVE(AMZN)@DJ-TM.mpd?data=BcHJEoIgAA
 #KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jPWD7MwLMiNiCoPSjMwS4sIM4gySDHKiwpPDXKMiEjNTfcrTIkq8bM09tR3z6kwyYnyCM01KEuLcA41dgMA
 #KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
 https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_3-HD@DJ-TM.mpd?data=BcFLEoIgAADQA7kgGmPcJjZhKhpCNO1SMxNJUOl3-t4DKYLCzqesXlVd3_y2G2hQz7HmMANkj1RYa1YKDqTBYHDavT1Jovi8eL1vcZjMRKDiOgqm3IEMuTVF1j7yuJtCOo2qvQUIdirCQfOkR6oh-1J_nb4aCT6a7RLKlkvF8rsp_w
-
-#EXTINF:-1 group-title="@DJMAACHA@", SSP2HD JSTAR
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TPILskN88sMyM0PdXM08DA0LPaOynZ0dksOcE_JCc2PzMlyiTDwySwIK061iMjIiTL2zS00DHK0SLMwKAMA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=hdntl=exp=1763181950~acl=*sshd2livetv*~id=2ce8d9204dbb2be98768a9ae0a213a3e~data=hdntl~hmac=083deaf9f086519f13d311999eab45ec5daf823cc05c36af2e2b55a78e5e9eb2&User-Agent=Hotstar;in.startv.hotstar.links_macha_official(Android/15)&Telegram=@links_macha_official&Creator=@DJ-TM
-https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_2-HD(JHSTAR)@DJ-TM.mpd?data=s7UoNU8yK4sKKfdMDTTXNzZ0TPFydUoudSrPKgjNKUnLzskI8nEsKnRJ0s53yvbP8XdyTg4M1tc3ysiPMoh0rgx1cYmMcDIIykgP8wz0MgtyDQwK8PNPCvBPL3AHAA
 
 #EXTINF:-1 group-title="@DJMAACHA@", WILLOWALT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
