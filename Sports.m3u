@@ -252,3 +252,9 @@ https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_3-HD@DJ-TM.mpd?data=BcFLEoIgAADQ
 #EXTINF:-1  tvg-logo="https://i1.sndcdn.com/artworks-EupBHxpCpy31s8Dd-F3RERA-t500x500.png" group-title="@DJMAACHA@", TNT SPORTS 4 HD
 https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_4-HD@DJ-TM.mpd?data=BcFBEoIgFADQA7EwUUwXLVJmaKikzMXPJVSklGIaqafvvU149YfPqh6lb9u2T-7LzSHXxqz7dZrDEytPBlw60wRULW9Cji47YSq6Gqg3hiTKvzFKU5AHMc0-2iHQFpJXD6Zy7KGZS9CwRlgZ2KYlp6bJcRmpGbKJFHSfn8dKFkLbyx8|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8ssJzAyIDA3MycnwsDB0TC8MM7ZwMywsjMr2d4_KCU0tiMqOcjPMzCnILneLdArKtIxI8nPPMMgqiAw2DgAA
 
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TNT SPORTS 3 HD" group-title="@DJMAACHA@", TNT SPORTS 3 HD updated
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jPWD7MwLMiNiCoPSjMwS4sIM4gySDHKiwpPDXKMiEjNTfcrTIkq8bM09tR3z6kwyYnyCM01KEuLcA41dgMA
+https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_3-HD@DJ-TM.mpd?data=BcFLEoIgAADQA7kgGmPcJjZhKhpCNO1SMxNJUOl3-t4DKYLCzqesXlVd3_y2G2hQz7HmMANkj1RYa1YKDqTBYHDavT1Jovi8eL1vcZjMRKDiOgqm3IEMuTVF1j7yuJtCOo2qvQUIdirCQfOkR6oh-1J_nb4aCT6a7RLKlkvF8rsp_w
