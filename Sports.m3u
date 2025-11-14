@@ -306,11 +306,13 @@ https://dj-tm-srvr1.vercel.app/title/FOX_505-HD(1080p50)@DJ-TM.m3u8?data=szUxNjA
 
 #EXTINF:-1 group-title="@DJMAACHA@", STAR SPORTS 1 HD (JTV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jNIDXLPCQuMSvNyds8OzrR0zvZxzykItMw1LrBMCUotjEg2KXcyqrBIT8mKjLQMKMj21g90CiwPNMgySwEA
-#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM&User-Agent=Mozilla/5.0&Origin=https://dj-tm-srvr1.vercel.app&Referer=https://dj-tm-srvr1.vercel.app
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"REPLACE_WITH_KEY","kid":"REPLACE_WITH_KEY_ID"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_url=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jNIDXLPCQuMSvNyds8OzrR0zvZxzykItMw1LrBMCUotjEg2KXcyqrBIT8mKjLQMKMj21g90CiwPNMgySwEA
+#KODIPROP:inputstream.adaptive.stream_headers=Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&User-Agent=Mozilla/5.0&Origin=https://dj-tm-srvr1.vercel.app&Referer=https://dj-tm-srvr1.vercel.app
 https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD(JTV)@DJ-TM.mpd?data=BcFLCoQwDADQA7loOhWhS0cwg4K_hSbd-qkVAxaE8fi-1273s1Rh4_0euA4gbobTTTaaqP7maPopAWT9lB-blnmAWCuHaAi_hV1o7jSr5icDrWPOLOdKkgl54HB5kAyw0EAv
 
-
+#EXTINF:-1 group-title="@DJMAACHA@", STAR SPORTS 1 HD (JTV)alt
+https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD(JTV)@DJ-TM.mpd?data=BcFLCoQwDADQA7loOhWhS0cwg4K_hSbd-qkVAxaE8fi-1273s1Rh4_0euA4gbobTTTaaqP7maPopAWT9lB-blnmAWCuHaAi_hV1o7jSr5icDrWPOLOdKkgl54HB5kAyw0EAv|drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jNIDXLPCQuMSvNyds8OzrR0zvZxzykItMw1LrBMCUotjEg2KXcyqrBIT8mKjLQMKMj21g90CiwPNMgySwEA&Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
 
 
 #EXTINF:-1 group-title="@DJMAACHA@", WILLOW TV
