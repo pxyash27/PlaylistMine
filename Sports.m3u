@@ -285,3 +285,21 @@ https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_3-HD@DJ-TM.mpd?data=BcFLEoIgAADQ
 #KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8ssJzAyIDA3MycnwsDB0TC8MM7ZwMywsjMr2d4_KCU0tiMqOcjPMzCnILneLdArKtIxI8nPPMMgqiAw2DgAA
 #KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
 https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_4-HD@DJ-TM.mpd?data=BcFBEoIgFADQA7EwUUwXLVJmaKikzMXPJVSklGIaqafvvU149YfPqh6lb9u2T-7LzSHXxqz7dZrDEytPBlw60wRULW9Cji47YSq6Gqg3hiTKvzFKU5AHMc0-2iHQFpJXD6Zy7KGZS9CwRlgZ2KYlp6bJcRmpGbKJFHSfn8dKFkLbyx8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="@DJMAACHA@", SKY SPORT 1 NZ
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8Uvzy3UMSw6ziHQxdosIz7QwLvbOzTH1CUwNcneMCI2McNI3CHQ2KQj0jsxMyTZxKcitdMk1Ti9zizK2cAMA
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr1.vercel.app/title/SKY_SPORT-1(NZ)@DJ-TM.mpd?data=DczZomMwAADQD_KgllCPtlGV1NiCvCG9QpVrX75-5nzAecle0u2qPw_FKNbGzXnbVk-WNli24_c4UhJDXE-jbIK6nIjgoDuOSfH8IRvhSjfer3WFQZQL4IV9ywAk3PSAfsS9llsdhetdw7Yhtu-ic_lJpen-uD69bJqzrpR_q36c-Z6RXuWzEaFMKUCSO1Qhnit3zmp29GwaFruWa7oW4iqXBIBVK3Il7ss_Tddf66IsnwVsRIy0Vm_YdcLm3Beo05yDR5nh6TblGcfSTOPEVKhmYIcvyfKa4_6HKovl6cyoHvjSGpAWrSJSXgBcyS0Z2D9YMlP9eJ1BzCyDWCS50huw4uqLIEdMcHk--G6ioYY4i4Qq_b2dQV0f2qCGCaufTOwS7cfzlEGA8vDlr_3UxTAJFHmWJEeT8MjZ6ckjycy7eyZEb53Fgb9fBCbRKqBKyj6Pmjpws6P_LV4pq6q5D6OW0EEPUPIP
+
+
+#EXTINF:-1 group-title="@DJMAACHA@", FOX 505
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr1.vercel.app/title/FOX_505-HD(50FPS)@DJ-TM.m3u8?data=8_PzS3OKzE3xMHaLzPIod4wwN4jIdLJ0j8wMMkxNCnAPc843cEoNcsssSDfINTNwdzY0iAAA
+
+
+#EXTINF:-1 group-title="@DJMAACHA@", FOX 505 HD
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr1.vercel.app/title/FOX_505-HD(1080p50)@DJ-TM.m3u8?data=szUxNjAoNHIp9A4wKfcv13Yzigh2Dih11bcsDvErdozy9Hf3Tq-wLMoP9A-NKEx298oOrahw0jfyLrEMdQnKL04utfDPTkkP17eILDYoLvY1ywtJdzUuTHKsMHbJiazMyg0zDy8J9AvK8qsIKE0tCAQA
