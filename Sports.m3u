@@ -225,37 +225,63 @@ http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=1608071
 http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:7B:AC:38&stream=1520176&extension=ts&play_token=
 
 @DJMAACHA@
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/21M4qB3RrnL.png" group-title="@DJMAACHA@", WILLOW HD (SLINGTV)
-https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_HD@DJ-TM.mpd?id=22|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=22
+#EXTM3U
 
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/21M4qB3RrnL.png" group-title="@DJMAACHA@",WILLOW 2 HD (SLINGTV)
-https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_2-HD@DJ-TM.mpd?id=672|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=672
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21M4qB3RrnL.png" group-title="@DJMAACHA@", WILLOW HD (SLINGTV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=22
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_HD@DJ-TM.mpd?id=22
 
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/21M4qB3RrnL.png" group-title="@DJMAACHA@",WILLOW SPORTS HD (SLINGTV)
-https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_SPORTS-HD@DJ-TM.mpd?id=2406|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=2406
 
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/21M4qB3RrnL.png" group-title="@DJMAACHA@",WILLOW SPORTS HD (AMZN)
-https://dj-tm-srvr1.vercel.app/title/WILLOW_SPORTS-HD@DJ-TM.mpd?data=BcHbDkMwAADQD-oDVbHs0XTCVjVqvXirhN1CNZ0MX79zwAXq-1FNaDAHYD1hhEH22XfwRaIY5AyFM2TctaEki59ab3cIV2VtM8Vnf_0F5dudwQfLfFrbW9MJ3RRQYhilwpzSpOcUe5Dso44Ck-i8CLcMLxvdYqiIctlY0yutvnxg5WNmfw|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8cssCSjLyYmwDE8xSDUsKQtIMokqcCxyd3c0LwiMiIzMjco2SQnTT8sJS3TLSbJIi0gvcXHMKQkIdPLNDQAA
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21M4qB3RrnL.png" group-title="@DJMAACHA@", WILLOW 2 HD (SLINGTV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=672
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_2-HD@DJ-TM.mpd?id=672
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21M4qB3RrnL.png" group-title="@DJMAACHA@", WILLOW SPORTS HD (SLINGTV)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/slingtv/ck/wllo.key?id=2406
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr2.vercel.app/slingtv/dash/WILLOW_SPORTS-HD@DJ-TM.mpd?id=2406
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/21M4qB3RrnL.png" group-title="@DJMAACHA@", WILLOW SPORTS HD (AMZN)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8cssCSjLyYmwDE8xSDUsKQtIMokqcCxyd3c0LwiMiIzMjco2SQnTT8sJS3TLSbJIi0gvcXHMKQkIdPLNDQAA
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr1.vercel.app/title/WILLOW_SPORTS-HD@DJ-TM.mpd?data=BcHbDkMwAADQD-oDVbHs0XTCVjVqvXirhN1CNZ0MX79zwAXq-1FNaDAHYD1hhEH22XfwRaIY5AyFM2TctaEki59ab3cIV2VtM8Vnf_0F5dudwQfLfFrbW9MJ3RRQYhilwpzSpOcUe5Dso44Ck-i8CLcMLxvdYqiIctlY0yutvnxg5WNmfw
 
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/21M4qB3RrnL.png" group-title="@DJMAACHA@",WILLOW SPORTS HD m3u8
 https://links-macha-official.x10.mx/willow_sports/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://i1.sndcdn.com/artworks-EupBHxpCpy31s8Dd-F3RERA-t500x500.png" group-title="@DJMAACHA@", TNT SPORTS 1 HD
-https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_1-HD@DJ-TM.mpd?data=BcHNDoIgAADgB-Ig5pzz4IFFTJ3SVMTFLU3JjDAhf96-74sifAWKgXAYsevXufRSWM9mw-2pXbThLCQkqWm_TmbqfeF01e-TQ2Ljh6bgvHkoWUNfPBkGsXCPhm6Gp3o_FHoJVTaOzBY1foPjPrHMvgOyd1QiN4D2EqsSF7SwfChvcq7-|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Ur8YtyL7fIzrZIDQ_LzM129o5MMXDLdSoPsMiKcHbPCUqNSPYqdk9NCnDMcCnPDQtOtYgwLnDMyYpKdQowjgIA
-
-#EXTINF:-1  tvg-logo="https://i1.sndcdn.com/artworks-EupBHxpCpy31s8Dd-F3RERA-t500x500.png" group-title="@DJMAACHA@", TNT SPORTS 2 HD
-https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_2-HD@DJ-TM.mpd?data=BcHLEoIgFADQD2qhwh3IbSONTUoCZchOzDHt4YNGs6_vnBO42pu60Moyxsdgm8QzoXrB9Vhsgm9q0XtpVJtnxCDjGg0znWJL7kO3iyDkN3DBpVwjP98_npbT61AduHpVnBklPfQDNJIefOycPCd6XO3MMsBpnwulacGEFB9jBWsH9Qc|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TP0tMyJys6JjCrJS3EMDXUzLPYuiDSwcMzIiipPCcqP9CgOtUjyCLSMcPLOiUorCHQO9y5z8nDPjXLJdQMA
-
-#EXTINF:-1  tvg-logo="https://i1.sndcdn.com/artworks-EupBHxpCpy31s8Dd-F3RERA-t500x500.png" group-title="@DJMAACHA@", TNT SPORTS 3 HD
-https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_3-HD@DJ-TM.mpd?data=BcFLEoIgAADQA7kgGmPcJjZhKhpCNO1SMxNJUOl3-t4DKYLCzqesXlVd3_y2G2hQz7HmMANkj1RYa1YKDqTBYHDavT1Jovi8eL1vcZjMRKDiOgqm3IEMuTVF1j7yuJtCOo2qvQUIdirCQfOkR6oh-1J_nb4aCT6a7RLKlkvF8rsp_w|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jPWD7MwLMiNiCoPSjMwS4sIM4gySDHKiwpPDXKMiEjNTfcrTIkq8bM09tR3z6kwyYnyCM01KEuLcA41dgMA
-
-#EXTINF:-1  tvg-logo="https://i1.sndcdn.com/artworks-EupBHxpCpy31s8Dd-F3RERA-t500x500.png" group-title="@DJMAACHA@", TNT SPORTS 4 HD
-https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_4-HD@DJ-TM.mpd?data=BcFBEoIgFADQA7EwUUwXLVJmaKikzMXPJVSklGIaqafvvU149YfPqh6lb9u2T-7LzSHXxqz7dZrDEytPBlw60wRULW9Cji47YSq6Gqg3hiTKvzFKU5AHMc0-2iHQFpJXD6Zy7KGZS9CwRlgZ2KYlp6bJcRmpGbKJFHSfn8dKFkLbyx8|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8ssJzAyIDA3MycnwsDB0TC8MM7ZwMywsjMr2d4_KCU0tiMqOcjPMzCnILneLdArKtIxI8nPPMMgqiAw2DgAA
-
 #EXTM3U
 
-#EXTINF:-1 tvg-name="TNT SPORTS 3 HD" group-title="@DJMAACHA@", TNT SPORTS 3 HD updated
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-EupBHxpCpy31s8Dd-F3RERA-t500x500.png" group-title="@DJMAACHA@", TNT SPORTS 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Ur8YtyL7fIzrZIDQ_LzM129o5MMXDLdSoPsMiKcHbPCUqNSPYqdk9NCnDMcCnPDQtOtYgwLnDMyYpKdQowjgIA
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_1-HD@DJ-TM.mpd?data=BcHNDoIgAADgB-Ig5pzz4IFFTJ3SVMTFLU3JjDAhf96-74sifAWKgXAYsevXufRSWM9mw-2pXbThLCQkqWm_TmbqfeF01e-TQ2Ljh6bgvHkoWUNfPBkGsXCPhm6Gp3o_FHoJVTaOzBY1foPjPrHMvgOyd1QiN4D2EqsSF7SwfChvcq7-
+
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-EupBHxpCpy31s8Dd-F3RERA-t500x500.png" group-title="@DJMAACHA@", TNT SPORTS 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8TP0tMyJys6JjCrJS3EMDXUzLPYuiDSwcMzIiipPCcqP9CgOtUjyCLSMcPLOiUorCHQO9y5z8nDPjXLJdQMA
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_2-HD@DJ-TM.mpd?data=BcHLEoIgFADQD2qhwh3IbSONTUoCZchOzDHt4YNGs6_vnBO42pu60Moyxsdgm8QzoXrB9Vhsgm9q0XtpVJtnxCDjGg0znWJL7kO3iyDkN3DBpVwjP98_npbT61AduHpVnBklPfQDNJIefOycPCd6XO3MMsBpnwulacGEFB9jBWsH9Qc
+
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-EupBHxpCpy31s8Dd-F3RERA-t500x500.png" group-title="@DJMAACHA@", TNT SPORTS 3 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jPWD7MwLMiNiCoPSjMwS4sIM4gySDHKiwpPDXKMiEjNTfcrTIkq8bM09tR3z6kwyYnyCM01KEuLcA41dgMA
 #KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
 https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_3-HD@DJ-TM.mpd?data=BcFLEoIgAADQA7kgGmPcJjZhKhpCNO1SMxNJUOl3-t4DKYLCzqesXlVd3_y2G2hQz7HmMANkj1RYa1YKDqTBYHDavT1Jovi8eL1vcZjMRKDiOgqm3IEMuTVF1j7yuJtCOo2qvQUIdirCQfOkR6oh-1J_nb4aCT6a7RLKlkvF8rsp_w
+
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-EupBHxpCpy31s8Dd-F3RERA-t500x500.png" group-title="@DJMAACHA@", TNT SPORTS 4 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8ssJzAyIDA3MycnwsDB0TC8MM7ZwMywsjMr2d4_KCU0tiMqOcjPMzCnILneLdArKtIxI8nPPMMgqiAw2DgAA
+#KODIPROP:inputstream.adaptive.stream_headers=Telegram=@links_macha_official&Creator=@DJ-TM
+https://dj-tm-srvr1.vercel.app/title/TNT_SPORTS_4-HD@DJ-TM.mpd?data=BcFBEoIgFADQA7EwUUwXLVJmaKikzMXPJVSklGIaqafvvU149YfPqh6lb9u2T-7LzSHXxqz7dZrDEytPBlw60wRULW9Cji47YSq6Gqg3hiTKvzFKU5AHMc0-2iHQFpJXD6Zy7KGZS9CwRlgZ2KYlp6bJcRmpGbKJFHSfn8dKFkLbyx8
