@@ -36,6 +36,11 @@ https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD(JTV)@DJ-TM.mpd?data=BcFLCo
 https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d944f2b1e5b7dfa405353a/index.mpd?ck=eyJmMWE1ODE2Zjg3MWU0ODE3YjQxMjQxYjYwMTdmYWFkZiI6IjBhYjMwMGJmODAwMTczODBjMDBhZjZjNzUwNDg3YmUyIiwiOTRiZjgwNjA0ZTg4NDI0M2E2ODlmZDhjNTQ2YjdjMzIiOiIzOGJhOGZiNTY1NmNhMjA3Njc3ODA5MjYxNWFiNWY4MiJ9
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="Foxtel AU" group-title="@WOW4k@", Foxtel AU – Clearkey (Xiaomi Pad 6)
+https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d944f2b1e5b7dfa405353a/index.mpd?ck=eyJmMWE1ODE2Zjg3MWU0ODE3YjQxMjQxYjYwMTdmYWFkZiI6IjBhYjMwMGJmODAwMTczODBjMDBhZjZjNzUwNDg3YmUyIiwiOTRiZjgwNjA0ZTg4NDI0M2E2ODlmZDhjNTQ2YjdjMzIiOiIzOGJhOGZiNTY1NmNhMjA3Njc3ODA5MjYxNWFiNWY4MiJ9|User-Agent=Mozilla/5.0%20(Xiaomi%20Pad%206%20Android%2013)&Referer=https://www.foxtel.com.au/&Origin=https://www.foxtel.com.au/
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-name="Foxtel AU" group-title="AU", Foxtel AU – Clearkey
