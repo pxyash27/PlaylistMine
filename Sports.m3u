@@ -28,56 +28,11 @@ https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-67/zemj-b9vl/chunklist.m3u8
 #EXTINF:-1 tvg-id="FoxCricket.au" group-title="@#1 Chori ka MAAL@" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox  EK AUR
 https://huntsp.webhop.me/infox.m3u8
 
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@#1 Chori ka MAAL@" tvg-logo="",ASTRO NS
+https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd?|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jMOTMyJKAwsNAgPLAszTjJ0SrUoiwjPDXQO9raMcE61cDLIsYjKsoh0MqzIiTKviDD2LjZwTAyKDHMytwAA 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/601_300.png" group-title="@#1 Chori ka MAAL@",Astro Cricket HD TRY NOW
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jMOTMyJKAwsNAgPLAszTjJ0SrUoiwjPDXQO9raMcE61cDLIsYjKsoh0MqzIiTKviDD2LjZwTAyKDHMytwAA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
-#EXTVLCOPT:http-origin=https://astrogo.astro.com.my
-https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd
-
-#EXTINF:-1 tvg-name="Astro Cricket" group-title="@#1 Chori ka MAAL@",Astro Cricket HD W KEYS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b3f5cbf2330e4ccc89280c2c34080f2c":"0b334e32744ab5288b08cf0d740ef6b6","8c704eb57032c8b188cab2887432acc8":"8932af8830f62e36704c0c8a0c7332b7"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
-#EXTVLCOPT:http-origin=https://astrogo.astro.com.my
-https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-name="Astro Cricket" group-title="Sports",Astro Cricket HD CHECK
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b3f5cbf2330e4ccc89280c2c34080f2c":"0b334e32744ab5288b08cf0d740ef6b6","8c704eb57032c8b188cab2887432acc8":"8932af8830f62e36704c0c8a0c7332b7"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; STK-LX1 Build/HONORSTK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
-https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-name="Astro Cricket" group-title="Sports",Astro Cricket HD ALT CHECK
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b3f5cbf2330e4ccc89280c2c34080f2c":"0b334e32744ab5288b08cf0d740ef6b6","8c704eb57032c8b188cab2887432acc8":"8932af8830f62e36704c0c8a0c7332b7"}
-#EXTVLCOPT:http-user-agent=stagefright/1.2 (Linux;Android 12)
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
-https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-name="Astro Cricket" group-title="Sports",Astro Cricket HD XIAOMI
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b3f5cbf2330e4ccc89280c2c34080f2c":"0b334e32744ab5288b08cf0d740ef6b6","8c704eb57032c8b188cab2887432acc8":"8932af8830f62e36704c0c8a0c7332b7"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2304FPN6DC Build/TKQ1.221013.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
-#EXTVLCOPT:http-origin=https://astrogo.astro.com.my
-https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-name="Astro Cricket" group-title="Sports",Astro Cricket HD ALT
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b3f5cbf2330e4ccc89280c2c34080f2c":"0b334e32744ab5288b08cf0d740ef6b6","8c704eb57032c8b188cab2887432acc8":"8932af8830f62e36704c0c8a0c7332b7"}
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.18.1
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
-https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@#1 Chori ka MAAL@" tvg-logo="",ASTRO NS2
+https://dj-tm-srvr7.vercel.app/astro_cric_plus/ASTRO_CRICKET-PLUS(1080p50)@DJ-TM.mpd?|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_Vz8UsqSbPIqMgpyEiqCAwPyy009HR3NM43Lkj2cI_KiUq1CEtLsQwvDCw0yKwINCwpS0kpK3E0SLSwcI7UtwAA
 
 #EXTM3U
 
