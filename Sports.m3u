@@ -17,6 +17,21 @@ http://80bc201a.edemist.com/iptv/P9KXN2DAWGSRD3PUFA6G8V88/9258/index.m3u8
 #EXTINF:-1 group-title="@cdn8k@", STAR 1
 https://dj-tm-srvr1.vercel.app/title/STAR_SPORTS_1-HD(JTV)@DJ-TM.mpd?data=BcFLCoQwDADQA7loOhWhS0cwg4K_hSbd-qkVAxaE8fi-1273s1Rh4_0euA4gbobTTTaaqP7maPopAWT9lB-blnmAWCuHaAi_hV1o7jSr5icDrWPOLOdKkgl54HB5kAyw0EAv|drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jNIDXLPCQuMSvNyds8OzrR0zvZxzykItMw1LrBMCUotjEg2KXcyqrBIT8mKjLQMKMj21g90CiwPNMgySwEA&Cookie=__hdnea__=st=1763067631~exp=1763154031~acl=/*~hmac=fc6a43aa0ee64fcd22da943ec1e678872d46b3ed142f602d6024f6eb581e73c9&Telegram=@links_macha_official&Creator=@DJ-TM
 
+@#1 Chori ka MAAL@
+
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@#1 Chori ka MAAL@" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 501 
+https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-67/1gpv-xl02/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@#1 Chori ka MAAL@" tvg-logo="",CHANNEL 7
+https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-67/zemj-b9vl/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="@#1 Chori ka MAAL@" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox  EK AUR
+https://huntsp.webhop.me/infox.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="@#1 Chori ka MAAL@",Astro Cricket HD
+https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd?|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jMOTMyJKAwsNAgPLAszTjJ0SrUoiwjPDXQO9raMcE61cDLIsYjKsoh0MqzIiTKviDD2LjZwTAyKDHMytwAA
+
 
 
 #EXTM3U
