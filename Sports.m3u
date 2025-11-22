@@ -30,8 +30,9 @@ https://huntsp.webhop.me/infox.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="@#1 Chori ka MAAL@",Astro Cricket HD
-https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd?|Telegram=@links_macha_official&Creator=@DJ-TM&drmScheme=clearkey&drmLicense=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jMOTMyJKAwsNAgPLAszTjJ0SrUoiwjPDXQO9raMcE61cDLIsYjKsoh0MqzIiTKviDD2LjZwTAyKDHMytwAA
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jMOTMyJKAwsNAgPLAszTjJ0SrUoiwjPDXQO9raMcE61cDLIsYjKsoh0MqzIiTKviDD2LjZwTAyKDHMytwAA
+https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd
 
 
 #EXTM3U
