@@ -30,10 +30,12 @@ https://huntsp.webhop.me/infox.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="" group-title="@#1 Chori ka MAAL@",Astro Cricket HD HIT 
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/601_300.png" group-title="@#1 Chori ka MAAL@",Astro Cricket HD TRY NOW
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dj-tm-srvr2.vercel.app/drm/ck/clear.key?data=s_XL8jMOTMyJKAwsNAgPLAszTjJ0SrUoiwjPDXQO9raMcE61cDLIsYjKsoh0MqzIiTKviDD2LjZwTAyKDHMytwAA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#EXTVLCOPT:http-origin=https://astrogo.astro.com.my
 https://dj-tm-srvr7.vercel.app/astro_cric/ASTRO_CRICKET(1080p50)@DJ-TM.mpd
 
 #EXTM3U
