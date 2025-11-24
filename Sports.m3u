@@ -1,3 +1,43 @@
+DELTA8K(FEB2026)
+
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",Fox 501
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=441307&extension=ts&play_token=4c9MFt9pk4
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",Fox 502
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=441306&extension=ts&play_token=4c9MFt9pk4
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",Fox 503
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=441305&extension=ts&play_token=4c9MFt9pk4
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",Fox 504
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=441304&extension=ts&play_token=4c9MFt9pk4
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",Fox 505
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=441360&extension=ts&play_token=ApvjAHO3hD
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",Fox 506
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=441302&extension=ts&play_token=sR6LqkZrnk
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",Fox 507
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=441301&extension=ts&play_token=qF7zCRBL6C
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",NZ SKY SPORTS 1
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670263&extension=ts&play_token=tXCK5sQerb
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",NZ SKY SPORTS 2
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670262&extension=ts&play_token=QpCxVEVjYc
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",NZ SKY SPORTS 3
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670261&extension=ts&play_token=gqLfDwe83X
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",NZ SKY SPORTS 4
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670260&extension=ts&play_token=VW1v9HpYLB
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",NZ SKY SPORTS 5
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670259&extension=ts&play_token=byWsSHSobk
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",NZ SKY SPORTS 6
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670258&extension=ts&play_token=zLyDxKWzZ3
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",NZ SKY SPORTS 7
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670258&extension=ts&play_token=zLyDxKWzZ3
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",NZ SKY SPORTS 8
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=575133&extension=ts&play_token=hO26iPxlX3
+#EXTINF:-1 tvg-id="FoxCricket.au" group-title="DELTA8K(FEB2026)" tvg-logo="",NZ SKY SPORTS 9
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=575132&extension=ts&play_token=CzBB1hjkOl
+http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670256&extension=ts&play_token=omXtJtnCuA
+
+
+
+
+
 @cdn8k@
 #EXTINF:-1 tvg-id="FoxCricket.au" group-title="@cdn8k@" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 
 http://tin51967.cdngold.me:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=441307&extension=ts&play_token=
