@@ -216,19 +216,19 @@ https://pstvplaylive.online/mpd/fox/ps_manifest.mpd?|drmScheme=clearkey&drmLicen
 #EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="@ASTRO HUB@", Astro Cricket (SD) 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7e+LqXnWSs6jyCfc1R0h7Q", "kid":"WBaYvX0Emkh3InVT4pAkEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 https://ast-eta.vercel.app/5117/default_primary.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="@ASTRO HUB@", Astro Cricket (HD) 50fps
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7e+LqXnWSs6jyCfc1R0h7Q", "kid":"WBaYvX0Emkh3InVT4pAkEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 https://ast-eta.vercel.app/5117/default_primary.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/X2PNpbk/Astro-Cricket-2024.png" group-title="@ASTRO HUB@", Astro Cricket (HD) 50fps trial
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7e+LqXnWSs6jyCfc1R0h7Q", "kid":"WBaYvX0Emkh3InVT4pAkEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 https://ast-eta.vercel.app/5117/default_primary.mpd
 
 
