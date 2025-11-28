@@ -34,7 +34,17 @@ http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=575133&extensio
 http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=575132&extension=ts&play_token=CzBB1hjkOl
 http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670256&extension=ts&play_token=omXtJtnCuA
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="FOX501" tvg-name="Fox MPD" group-title="Fox Sports",Fox 501 HD
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?|drmScheme=clearkey&drmLicense=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
+#EXTINF:-1 tvg-id="FOX503" tvg-name="Fox MPD" group-title="Fox Sports",Fox 503 HD
+https://live1-761f422bb93edb7b.fastly.foxtelgroupcdn.net.au/out/v1/b548339e24424090b2b2f2b85dfbd6cd/index.mpd?|drmScheme=clearkey&drmLicense=e73deecd50e5478b99c951ef7ede921c:7aa6e26d6ef76602bbdb461f0c70fc7f
+#EXTINF:-1 tvg-id="FOX505" tvg-name="Fox MPD" group-title="Fox Sports",Fox 505 HD
+https://live1-761f422bb93edb7b.fastly.foxtelgroupcdn.net.au/out/v1/8a2fd3b40a8a47dabae348940eeb4566/index.mpd?|drmScheme=clearkey&drmLicense=14b1d85c433147469bd0cece7539d53d:15d1b4437c7007542c2ed36bf6278cfd
+#EXTINF:-1 tvg-id="FOX506" tvg-name="Fox MPD" group-title="Fox Sports",Fox 506 HD
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/8f734b06f2164c1c9db642b44143e68e/index.mpd?|drmScheme=clearkey&drmLicense=f0a83834b29d4affa5f53637ff673219:44d94245b6255a3fb440bb0dc0497d45
+#EXTINF:-1 tvg-id="FOX507" tvg-name="Fox MPD" group-title="Fox Sports",Fox 507 HD
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/58b864af439d4901867d3105b708aa3c/index.mpd?|drmScheme=clearkey&drmLicense=977f2ff16e4449d1bdb24533e441691b:0a388a4115affcfad6eb5ff74c00c4c3
 
 
 
