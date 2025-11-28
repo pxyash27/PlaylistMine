@@ -96,11 +96,12 @@ https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d94
 
 #EXTINF:-1 tvg-id="" tvg-name="Foxtel AU Stream" tvg-logo="" group-title="AU Channels",Foxtel AU Stream fox 501
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a2ba14ee5ef4440d8e56a8bb5403117d":"b77a334fd7aff9c9960ca7785a20ea66"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Xiaomi Pad 6 Build/TKQ1.221013.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.foxtel.com.au/
 #EXTVLCOPT:http-origin=https://www.foxtel.com.au/
 #EXTVLCOPT:http-cookies=Country=AU; Platform=Android; Device=XiaomiPad6; Auth=true;
-https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?|drmScheme=clearkey&drmLicense=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c8.alamy.com/comp/2YRHMJF/australia-vs-india-3d-illustration-vector-flags-in-shaded-rounded-rectangle-with-flash-versus-match-2YRHMJF.jpg" group-title="BHARAT vs AUS full", Fox 501 4K full
 https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d944f2b1e5b7dfa405353a/index.mpd?|drmScheme=clearkey&drmLicense=f1a5816f871e4817b41241b6017faadf:0ab300bf80017380c00af6c750487be2,94bf80604e884243a689fd8c546b7c32:38ba8fb5656ca2076778092615ab5f82
