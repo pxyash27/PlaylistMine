@@ -43,6 +43,19 @@ http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670256&extensio
 #EXTVLCOPT:http-cookies=Country=AU; Platform=Android; Device=XiaomiPad6; Auth=true;
 https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/58b864af439d4901867d3105b708aa3c/index.mpd?|drmScheme=clearkey&drmLicense=977f2ff16e4449d1bdb24533e441691b:0a388a4115affcfad6eb5ff74c00c4c3
 
+#EXTINF:-1 tvg-id="" tvg-name="Foxtel AU Stream" tvg-logo="" group-title="FOX Channels",507 alternate
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CjiKQRWv/PrW61/3TADEww", "kid":"l38v8W5ESdG9skUz5EFpGw" } ], "type":"temporary" }
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/58b864af439d4901867d3105b708aa3c/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Foxtel AU Stream" tvg-logo="" group-title="FOX Channels",507 alternate 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"l38v8W5ESdG9skUz5EFpGw", "kid":"CjiKQRWv/PrW61/3TADEww" } ], "type":"temporary" }
+https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/58b864af439d4901867d3105b708aa3c/index.mpd
+
+
 @cdn8k@
 #EXTINF:-1 tvg-id="FoxCricket.au" group-title="@cdn8k@" tvg-logo="https://i.ibb.co/hJDsR3fW/images-3.jpg",Fox Cricket 
 http://tin51967.cdngold.me:80/play/live.php?mac=00:1A:79:B5:76:4E&stream=441307&extension=ts&play_token=
