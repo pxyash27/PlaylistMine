@@ -40,14 +40,14 @@ http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670256&extensio
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t3ozT9ev+cmWDKd4WiDqZg","kid":"ororFO5fRE2OVqi7VAMRfQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t3ozT9ev-cmWDKd4WiDqZg","kid":"ororFO5fRE2OVqi7VAMRfQ"}],"type":"temporary"}
 https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd
 
 #EXTINF:-1 tvg-id="Fox503" tvg-name="Fox 503 HD" tvg-logo="" group-title="Fox Channels",Fox 503 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eqbibd73ZgK720YfDHD8fw","kid":"5z3uzVDlR4uZyVHvft6SHA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eqbibd73ZgK724YfDHD8fw","kid":"5z3uzVDlR4uZyVHvft6SHA"}],"type":"temporary"}
 https://live1-761f422bb93edb7b.fastly.foxtelgroupcdn.net.au/out/v1/b548339e24424090b2b2f2b85dfbd6cd/index.mpd
 
 #EXTINF:-1 tvg-id="Fox505" tvg-name="Fox 505 HD" tvg-logo="" group-title="Fox Channels",Fox 505 HD
@@ -61,14 +61,14 @@ https://live1-761f422bb93edb7b.fastly.foxtelgroupcdn.net.au/out/v1/8a2fd3b40a8a4
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RNlCRbYlWj+0QLsNwEl9RQ","kid":"8Kg4NLKdSv+l9TY3/2cyGQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RNlCRbYlWj-0QLsNwEl9RQ","kid":"8Kg4NLKdSv-l9TY3_2cyGQ"}],"type":"temporary"}
 https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/8f734b06f2164c1c9db642b44143e68e/index.mpd
 
 #EXTINF:-1 tvg-id="Fox507" tvg-name="Fox 507 HD" tvg-logo="" group-title="Fox Channels",Fox 507 HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CjiKQRWv/PrW61/3TADEww","kid":"l38v8W5ESdG9skUz5EFpGw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CjiKQRWv_PrW61_3TADEww","kid":"l38v8W5ESdG9skUz5EFpGw"}],"type":"temporary"}
 https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/58b864af439d4901867d3105b708aa3c/index.mpd
 
 @cdn8k@
