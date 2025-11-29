@@ -36,6 +36,7 @@ http://delta8k.xyz:80/play/live.php?mac=00:1A:79:65:B1:ED&stream=670256&extensio
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Foxtel AU Stream" tvg-logo="" group-title="FOX Channels",501
+#KODIPROP:inputstream.adaptive.stream_headers=http-proxy=socks5://RmbZObHZwN:ZAWaETuhnjUM@mel.socks.ipvanish.com:1080
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t3ozT9ev+cmWDKd4WiDqZg", "kid":"oroU7l70RA2OVqi7VAMRfQ" } ], "type":"temporary" }
@@ -43,6 +44,7 @@ https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0b
 
 #EXTINF:-1 tvg-id="" tvg-name="Foxtel AU Stream" tvg-logo="" group-title="FOX Channels",503
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=http-proxy=socks5://RmbZObHZwN:ZAWaETuhnjUM@mel.socks.ipvanish.com:1080
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eqbibW73ZgK720YfDHD8fw", "kid":"5z3uzVDlR4uZyVHvft6SHA" } ], "type":"temporary" }
 https://live1-761f422bb93edb7b.fastly.foxtelgroupcdn.net.au/out/v1/b548339e24424090b2b2f2b85dfbd6cd/index.mpd
