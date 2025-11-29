@@ -74,7 +74,7 @@ https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/86966d5956d94
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Foxtel AU Stream" tvg-logo="" group-title="FOX Channels",501 4k~2
+#EXTINF:-1 tvg-id="" tvg-name="Foxtel AU Stream" tvg-logo="" group-title="FOX Channels",501 4k-2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CrMAv4ABc4DACvbHUEh74g", "kid":"8aWBb4ceSBe0EkG2AX+q3w" } ], "type":"temporary" }
